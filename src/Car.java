@@ -3,6 +3,7 @@ public class Car {
 //    String make;
 //    String model;
     int speed;
+    boolean status;
 
     void displaySpeed(){
         System.out.println("current speed: "+speed);
